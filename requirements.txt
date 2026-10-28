@@ -1,0 +1,5 @@
+opencv-python>=4.8,<5
+numpy>=1.24,<3
+scipy>=1.10,<2
+Pillow>=10.0,<13
+pillow-heif>=0.18,<2
